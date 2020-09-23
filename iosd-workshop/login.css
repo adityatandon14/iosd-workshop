@@ -140,7 +140,7 @@ button.ghost {
 
 /* put transalate to zero then see the diff */
 
-.container.right-panel-active .sign-in-container {
+/* .container.right-panel-active .sign-in-container {
   transform: translateX(100%);
 }
 .container.right-panel-active .sign-in-container{
@@ -160,12 +160,14 @@ button.ghost {
   transform: translateX(50%);
 }
 
-
+/* to show how welcome transforms to welcome back  */
+/*
 .container.right-panel-active .overlay-right {
   transform: translateX(-20%);
-} 
+}  
+*/
 
-
+/* try shifting welcome back to welcome */
 
 .overlay {
   background-image: #3c4d5f;
